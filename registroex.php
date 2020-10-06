@@ -25,7 +25,10 @@ curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
 # Send request.
 $result = curl_exec($ch);
 curl_close($ch);
+
+echo json_encode($result);
+
 # Print response.
-echo "<pre>$result</pre>";
+//echo "<pre>$result</pre>";
 
 ?>
