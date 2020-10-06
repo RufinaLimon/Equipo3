@@ -27,8 +27,6 @@ $result = curl_exec($ch);
 curl_close($ch);
 
 echo json_encode($result);
-
-# Print response.
-//echo "<pre>$result</pre>";
+//echo json_decode($result);
 
 ?>

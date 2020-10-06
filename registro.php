@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-    <title>Iluminación</title>
+    <title>Registro de usuario</title>
     <meta charset="UTF-8" name="viewport" content="initial-scale=1">   
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
